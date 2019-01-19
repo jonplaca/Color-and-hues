@@ -4,7 +4,7 @@
 
 /* About Me */
 #mt_about_me {
-    padding: 0 0 100px 0;
+    padding: 50px 50px 50px 50px;
     position: relative;
     @media only screen and (max-width: 640px) {
         padding: 60px 0;
@@ -28,7 +28,7 @@
             margin-bottom: 30px;
         }
     }
-    
+
     .mt_skills {
         margin-bottom: 60px;
         h3 {
