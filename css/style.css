@@ -1,5 +1,5 @@
-/* 
-======================================================================== 
+/*
+========================================================================
 
 Zien: style.css ( Main Theme CSS file )
 
@@ -8,9 +8,9 @@ Version: 1.0
 Author: Raven Themez
 Author URI: https://themeforest.net/user/raventhemez
 If you having trouble in editing js. please send a mail to raventhemez@gmail.com
- 
+
 This is the file you need to edit to change the look of the theme.
-======================================================================== 
+========================================================================
 
 - // TABLE OF CONTENTS // -
 
@@ -1420,7 +1420,7 @@ input[type="submit"] {
 /* ============================ */
 /* About Me */
 #mt_about_me {
-  padding: 0 0 100px 0;
+  padding: 50px 50px 50px 50px;
   position: relative; }
   @media only screen and (max-width: 640px) {
     #mt_about_me {
@@ -1625,7 +1625,7 @@ input[type="submit"] {
 /*      Testimonials      */
 /* ====================== */
 #mt_testimonial {
-  padding: 100px 0;
+  padding: 50px 50px 50px 50px;
   background: #f9f9f9; }
   @media only screen and (max-width: 640px) {
     #mt_testimonial {
@@ -1697,7 +1697,7 @@ input[type="submit"] {
 /*        Services        */
 /* ====================== */
 #mt_services {
-  padding: 100px 0;
+  padding: 50px 50px 50px 50px;
   background: #f9f9f9; }
   @media only screen and (max-width: 640px) {
     #mt_services {
@@ -2499,7 +2499,7 @@ input[type="submit"] {
           font-size: 45px; }
 
 #pricing_plan {
-  padding: 100px 0; }
+  padding: 50px 50px 50px 50px; }
   @media only screen and (max-width: 640px) {
     #pricing_plan {
       padding: 60px 0; } }
@@ -2951,7 +2951,7 @@ aside .widget_tag_cloud ul {
 /*          Blog Listing         */
 /* ============================= */
 #blog_single_main_sec {
-  padding: 100px 0px 65px;
+  padding: 50px 50px 50px 50px;
   position: relative; }
   #blog_single_main_sec .section_title h2 {
     color: #ffffff; }
